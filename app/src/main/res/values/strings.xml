@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">WebViewMusicYT</string>
+    <string name="next">NEXT</string>
+    <string name="skip">SKIP</string>
+    <string name="start">GOT IT</string>
+
+    <string name="slide_1_title">Welcome user</string>
+    <string name="slide_1_desc">Aplikasi Mendengarkan Music By Putra Ravi</string>
+    <string name="slide_11_desc">resources video By You Tube [ Google ]</string>
+
+    <string name="slide_2_title">Enjoy Music</string>
+    <string name="slide_2_desc">Nikmati Music dimana saja anda berada</string>
+
+    <string name="slide_3_title">Aplikasi Percobaan</string>
+    <string name="slide_3_desc">ini adalah aplikasi percobaan</string>
+
+    <string name="play_again_desc">To see the welcome slider again, goto Settings -> apps -> welcome slider -> clear data</string>
+    <string name="play_again">Play Again</string>
+</resources>
