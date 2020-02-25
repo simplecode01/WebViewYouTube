@@ -1,0 +1,9 @@
+<application>
+  <component name="ParameterNameHintsSettings">
+    <blacklists>
+      <blacklist language="Java">
+        <added pattern="android.media.session.MediaController.MediaController(context,token)" />
+      </blacklist>
+    </blacklists>
+  </component>
+</application>
